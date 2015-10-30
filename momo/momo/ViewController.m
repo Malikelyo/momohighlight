@@ -21,7 +21,7 @@
 
 - (void)function
 {
-    
+    NSLog(@"测试");
 }
 
 @end
